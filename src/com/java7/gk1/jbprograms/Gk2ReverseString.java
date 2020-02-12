@@ -1,4 +1,4 @@
-package com.gk1.jbPrograms;
+package com.java7.gk1.jbprograms;
 
 public class Gk2ReverseString {
 

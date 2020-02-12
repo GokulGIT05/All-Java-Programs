@@ -1,4 +1,4 @@
-package com.gk3.collectionPrograms;
+package com.java7.gk3.collections;
 
 import java.util.ArrayList;
 import java.util.HashMap;

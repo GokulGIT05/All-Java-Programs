@@ -1,4 +1,4 @@
-package com.gk2.patternProgram;
+package com.java7.gk4.patternProgramming;
 
 public class Gk1Pattern {
 

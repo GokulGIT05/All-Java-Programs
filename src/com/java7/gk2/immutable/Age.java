@@ -1,4 +1,4 @@
-package com.gk3.immutableTest;
+package com.java7.gk2.immutable;
 
 public class Age implements Cloneable
 {
